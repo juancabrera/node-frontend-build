@@ -4,17 +4,17 @@ Minimal front-end build system using only node (no Gulp, Grunt, Webpack, etc)
 ## Usage
 Install dependencies:  
 ```
-npm install
+yarn install
 ```
 
 Run dev server:
 ```
-npm start
+yarn start
 ```
 
 Run build:
 ```
-npm run build
+yarn build
 ```
 
 ## Features
